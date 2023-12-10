@@ -1,5 +1,5 @@
 # Problem 238: Product of Array Except Self
-# Solution Runtime: 
+# Solution Runtime: 189ms (beats 78.3%)
 
 from typing import List
 
