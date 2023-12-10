@@ -11,6 +11,3 @@ def two_sum(nums: List[int], target: int) -> List[int]:
             return [i, r_dict[remainder]]
         else:
             r_dict[num] = i
-            
-if __name__ == '__main__':
-    print(two_sum([3,2,4], 6))
